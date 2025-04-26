@@ -14,9 +14,19 @@ From the textbook:
 ---
 ### Textbook problems
 [Textbook Link](https://math.bme.hu/~gabor/oktatas/SztoM/Newman_Networks.pdf)
+`12.1 (b)`
+`12.1 (c)`
+`12.5 (a)`
+`12.5 (b)`
+`12.6 (a)`
+`12.6 (b)`
+`12.6 (c)`
+`12.6 (d)`
+`12.6 (e)`
 
-`12.6`
 ### Other problems
+1. What is the difference between radius and diameter in a graph?
+2. What properties of the random graph model are good for practically modeling other graphs?
 
 
 # Lecture Slides
